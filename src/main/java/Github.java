@@ -14,5 +14,7 @@ package main.java;
  * @since 1.0.0
  */
 public class Github {
-
+    public static void main(String[] args) {
+        System.out.println("ceshi");
+    }
 }
